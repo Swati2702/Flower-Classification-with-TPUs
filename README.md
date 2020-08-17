@@ -1,8 +1,8 @@
 # Flower-Classification-with-TPUs
 Flower Classification with TPUs on Kaggle
 
-Kaggle competition: https://www.kaggle.com/c/tpu-getting-started
-Kaggle notebook: https://www.kaggle.com/swatisk2702/flower-classification-on-tpus-with-efficient-net
+- Kaggle competition: https://www.kaggle.com/c/tpu-getting-started
+- Kaggle notebook: https://www.kaggle.com/swatisk2702/flower-classification-on-tpus-with-efficient-net
 
 Got accuracy of 95.14 %
 
